@@ -1,2 +1,2 @@
 # PHP_Sample03
-PHP Sample 03
+初めてのPHP 単純レスポンス
